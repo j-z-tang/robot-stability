@@ -1,5 +1,5 @@
 # Optimising Stability of Walking Robots
-This repository contains sample code for the published paper entitled "Invariant Funnels for Underactuated Dynamic Walking Robots: New Phase Variable and Experimental Validation" by Justin Z. Tang et al.  The paper was [published in the IEEE International Conference for Robotics and Automation](https://ieeexplore.ieee.org/document/7989400).
+This repository contains code for the published paper entitled "Invariant Funnels for Underactuated Dynamic Walking Robots: New Phase Variable and Experimental Validation" by Justin Z. Tang et al.  The paper was [published in the IEEE International Conference for Robotics and Automation](https://ieeexplore.ieee.org/document/7989400).
 
 ## Software requirements
 Please install the following software packages prior to running the code
