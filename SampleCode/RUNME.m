@@ -1,6 +1,7 @@
 % This script invokes the various steps involved in the computation of the
 % stability funnel outlined in the paper:
-% "Simplified Construction of Stability Funnel for Dynamic Walking Robots Under Virtual Constraints"
+% "Invariant Funnels for Underactuated Dynamic Walking Robots: New Phase Variable and Experimental Validation"
+% by Justin Tang
 
 %% Check for required softwares - Spotless and MOSEK
 display('Checking for required software')
